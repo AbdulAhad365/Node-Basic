@@ -1,5 +1,4 @@
 Node-Basic
-
 A simple yet powerful starting point for your Node.js projects.
 
 <p align="center"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="300"/> </p>
@@ -59,4 +58,4 @@ Contributions are always welcome! Feel free to submit a pull request or open an 
 This project is licensed under the MIT License.
 
 📷 Demo
-<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/> </p>
