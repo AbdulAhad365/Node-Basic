@@ -26,4 +26,4 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git@github.com:AbdulAhad365/Node-Basic.git
+   https://github.com/AbdulAhad365/Node-Basic.git
