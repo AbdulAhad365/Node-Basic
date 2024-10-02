@@ -1,7 +1,6 @@
 Node-Basic
 A simple yet powerful starting point for your Node.js projects.
 
-<p align="center"> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="300"/> </p>
 This repository contains basic Node.js code to help you understand and develop Node.js applications from scratch.
 
 🚀 Node.js Basic Project
