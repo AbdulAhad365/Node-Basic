@@ -45,7 +45,6 @@ npm start
 Once the application is up and running, open your browser and visit:
 
 bash
-Copy code
 http://localhost:3000
 📑 API Endpoints
 GET / : Returns a welcome message.
@@ -56,5 +55,5 @@ Contributions are always welcome! Feel free to submit a pull request or open an 
 📜 License
 This project is licensed under the Abdul Ahad
 
-📷 Demo
+📷 NODE JS:
 <p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/> </p>
